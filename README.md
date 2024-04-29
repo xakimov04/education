@@ -1,2 +1,2 @@
 Education
-![Education](education.jpg)
+![Education](fon/education.jpg)
